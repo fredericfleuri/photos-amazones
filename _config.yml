@@ -62,10 +62,10 @@ plugins:
   - jekyll-paginate
 
 # Collections
-collections:
-  recipes:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   recipes:
+#     output: true
+#     permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -75,11 +75,11 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true
-      share: true
+      comments: false
+      share: false
  
  # Site Author
-# author:
-#   name: Frédéric Fleuri
-#   picture: /images/michael-rose-photo.jpg
-#   email:
+author:
+  name: Frédéric Fleuri
+  picture: /images/author_frederic.jpg
+  email:
