@@ -6,7 +6,7 @@ title: Photos des rencontres
 description: Les photos des rencontres
 baseurl: "/" 
 url: "https://fredericfleuri.github.io/photos-amazones.github.io/"
-logo: "/images/site-logo.png" 
+logo: "/images/site-logo.jpg" 
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
