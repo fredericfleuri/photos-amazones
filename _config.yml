@@ -1,17 +1,11 @@
 # Site wide configuration
-
-
-description: Les photos des rencontres
-logo: images/site-logo.jpg
-url: https://fredericfleuri.github.io/photos-amazones.github.io/
-
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: locale: fr_FR
 title: Photos des rencontres
 description: Les photos des rencontres
 baseurl: "/" 
-url: https://fredericfleuri.github.io/photos-amazones.github.io/
+url: "https://fredericfleuri.github.io/photos-amazones.github.io/"
 logo: "/images/site-logo.png" 
 date_format: "%B %-d, %Y"
 read_time: true
