@@ -16,8 +16,8 @@
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: fr-Fr
-title: "Photos FCG Amazones"
-description: "Photos des FCG Amazones"
+title: "FCG Amazones"
+description: "Photos"
 baseurl: /
 url: https://fredericfleuri.github.io/photos-amazones.github.io/
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -90,7 +90,7 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Frédéric Fleuri
   picture:
   email:
   twitter:
