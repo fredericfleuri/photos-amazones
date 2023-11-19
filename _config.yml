@@ -5,7 +5,7 @@ locale: fr_FR
 title: Photos des rencontres
 description: Les photos des rencontres
 baseurl: "/" 
-url: "https://fredericfleuri.github.io/photos-amazones.github.io/"
+url: "https://amazones.fcg.photos.fleuri.fr/"
 logo: "/images/site-logo.jpg" 
 date_format: "%B %-d, %Y"
 read_time: true
