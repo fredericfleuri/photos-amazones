@@ -2,3 +2,12 @@
     height: 200px;
     margin-bottom: 8px;
 }
+
+.images-row a {
+    float: left;
+    margin-right: 5px;
+}
+
+.images-row a img {
+    height: 200px;
+}
